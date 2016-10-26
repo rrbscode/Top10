@@ -5,9 +5,10 @@
 ## II. Filter and correct the raw reads
                   
 ## III. Reads mapping (Mappers or Aligners)
-  1. BWA-mem, BWA-aln  https://github.com/lh3/bwa        
-  2. Bowtie2   https://github.com/BenLangmead/bowtie2   
+  1. BWA-mem, BWA-aln    https://github.com/lh3/bwa        
+  2. Bowtie2     https://github.com/BenLangmead/bowtie2   
   3. Stampy  
+                                                      
 ## IV. Check quality for BAM files
                      
 ## V. Filter and correct the mapped reads
