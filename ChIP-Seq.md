@@ -17,7 +17,9 @@
   2. cutadapt ： https://pypi.python.org/pypi/cutadapt     
   3. Galore : http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/         
   4. AdapterRemoval :  https://github.com/MikkelSchubert/adapterremoval              
-  5. 
+  5. Flexbar : https://github.com/seqan/flexbar                   
+  6. Lighter : https://github.com/mourisl/Lighter     
+                                                                      
                   
 ## III. Reads mapping (Mappers or Aligners)
   1. BWA-mem and BWA-aln:    https://github.com/lh3/bwa        
