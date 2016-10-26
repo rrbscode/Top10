@@ -13,6 +13,11 @@
   10. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html              
                           
 ## II. Filter and correct the raw reads
+  1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
+  2. cutadapt ： https://pypi.python.org/pypi/cutadapt     
+  3. Galore : http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/         
+  4. AdapterRemoval :  https://github.com/MikkelSchubert/adapterremoval              
+  5. 
                   
 ## III. Reads mapping (Mappers or Aligners)
   1. BWA-mem and BWA-aln:    https://github.com/lh3/bwa        
