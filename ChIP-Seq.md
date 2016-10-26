@@ -1,4 +1,4 @@
-#Top 10 softwares for ChIP-seq data analysis.
+#Top 10 softwares for ChIP-seq data analysis. (The 2nd generation sequencing)
              
 ## I. Check quality for FASTQ files
                           
