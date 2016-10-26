@@ -12,6 +12,10 @@
   5. Subread : http://subread.sourceforge.net/     
   6. Yara : https://www.seqan.de/apps/yara/       
      RazerS 3 : https://www.seqan.de/apps/razers-3/      
+  7. mrsFAST-Ultra :  http://sfu-compbio.github.io/mrsfast/      
+  8. BBMap : https://sourceforge.net/projects/bbmap/            
+  9. GMAP-GSNAP : http://research-pub.gene.com/gmap/                 
+  10. deBGA :  https://github.com/hitbc/deBGA                      
                                                       
 ## IV. Check quality for BAM files
                      
