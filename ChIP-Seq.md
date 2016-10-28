@@ -10,7 +10,8 @@
   7. QC3 : https://github.com/slzhao/QC3                      
   8. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
   9. ShortRead : https://bioconductor.org/packages/release/bioc/html/ShortRead.html              
-  10. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html              
+  10. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html   
+  11. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                  
                           
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
