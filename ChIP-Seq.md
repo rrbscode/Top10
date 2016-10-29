@@ -36,6 +36,7 @@
   10. deBGA :  https://github.com/hitbc/deBGA                      
                                                       
 ## IV. Check quality for BAM files
+1. Sambamba :  https://github.com/lomereiter/sambamba                            
                      
 ## V. Filter and correct the mapped reads
                          
