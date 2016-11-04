@@ -15,7 +15,7 @@
   7. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
   8. PRINSEQ : http://prinseq.sourceforge.net/                                           
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html     
-  10. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                                        
+  10.                                         
   MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)             
   Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools)  , [ShortRead](http://bioconductor.org/packages/release/bioc/html/ShortRead.html) , [NGSUtils](http://ngsutils.org/) , [ngs-bits](https://github.com/imgag/ngs-bits) , [SolexaQA](http://solexaqa.sourceforge.net/)                                                  
                                                   
@@ -45,7 +45,7 @@
 1. Sambamba :  https://github.com/lomereiter/sambamba   
 2. Biobambam2 : https://github.com/gt1/biobambam2  
 3. NGS-QC Generator : http://www.ngs-qc.org/                            
-
+4. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html
                      
 ## V. Filter and correct the mapped reads
                          
