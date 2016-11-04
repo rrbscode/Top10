@@ -10,7 +10,8 @@
   7. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
   8. ShortRead : https://bioconductor.org/packages/release/bioc/html/ShortRead.html              
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html                          
-  10.htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html   
+  10.htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html  
+                     
   MultiQC : http://multiqc.info/ 
                           
 ## II. Filter and correct the raw reads
