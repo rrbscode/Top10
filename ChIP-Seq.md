@@ -16,8 +16,8 @@
   8. ShortRead : https://bioconductor.org/packages/release/bioc/html/ShortRead.html              
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html     
   10. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                                        
-  MultiQC : http://multiqc.info/ 
-                          
+  MultiQC : https://github.com/ewels/MultiQC                                           
+                                                  
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
   2. cutadapt ： https://pypi.python.org/pypi/cutadapt     
