@@ -1,6 +1,7 @@
 # Top 10 softwares for ChIP-seq data analysis.                    
-##### Only for the 2nd generation sequencing of bulk cell populations.
-##### Softwares for Single-cell ChIP-seq data analysis : https://github.com/CTLife/Top10/blob/master/Single-cell_ChIP-seq.md   
+####  Only for the 2nd generation sequencing of bulk cell populations.
+##### Softwares for Single-cell ChIP-seq data analysis, please see :                         
+##### https://github.com/CTLife/Top10/blob/master/Single-cell_ChIP-seq.md   
                                  
 -----------------------                          
                                                              
