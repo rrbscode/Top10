@@ -12,12 +12,12 @@
   4. fastq-tools : https://github.com/dcjones/fastq-tools                                  
   5. fastqp : https://pypi.python.org/pypi/fastqp            
   6. QC3 : https://github.com/slzhao/QC3                      
-  7. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
-  8. PRINSEQ : http://prinseq.sourceforge.net/                                           
+  7. PRINSEQ : http://prinseq.sourceforge.net/              
+  8. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html                                           
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html     
-  10.                                         
+  10. ShortRead : http://bioconductor.org/packages/release/bioc/html/ShortRead.html                                              
   MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)             
-  Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools)  , [ShortRead](http://bioconductor.org/packages/release/bioc/html/ShortRead.html) , [NGSUtils](http://ngsutils.org/) , [ngs-bits](https://github.com/imgag/ngs-bits) , [SolexaQA](http://solexaqa.sourceforge.net/)                                                  
+  Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools)  ,  [NGSUtils](http://ngsutils.org/) , [ngs-bits](https://github.com/imgag/ngs-bits) , [SolexaQA](http://solexaqa.sourceforge.net/)                                                  
                                                   
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
