@@ -43,7 +43,8 @@
                                                       
 ## IV. Check quality for BAM files
 1. Sambamba :  https://github.com/lomereiter/sambamba   
-2. Biobambam2 : https://github.com/gt1/biobambam2                      
+2. Biobambam2 : https://github.com/gt1/biobambam2  
+3. NGS-QC Generator : http://www.ngs-qc.org/                            
 
                      
 ## V. Filter and correct the mapped reads
