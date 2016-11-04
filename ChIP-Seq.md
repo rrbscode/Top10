@@ -2,16 +2,16 @@
              
 ## I. Check quality for FASTQ files
   1. FastQC : http://www.bioinformatics.babraham.ac.uk/projects/fastqc/              
-  2. FastQ Screen : http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/             
-  3. MultiQC : http://multiqc.info/    
-  4. NGSUtils : http://ngsutils.org/          
-  5. ngs-bits : https://github.com/imgag/ngs-bits                   
-  6. fastqp : https://pypi.python.org/pypi/fastqp            
-  7. QC3 : https://github.com/slzhao/QC3                      
-  8. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
-  9. ShortRead : https://bioconductor.org/packages/release/bioc/html/ShortRead.html              
-  10. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html   
-  11. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                  
+  2. FastQ Screen : http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/                  
+  3. NGSUtils : http://ngsutils.org/          
+  4. ngs-bits : https://github.com/imgag/ngs-bits                   
+  5. fastqp : https://pypi.python.org/pypi/fastqp            
+  6. QC3 : https://github.com/slzhao/QC3                      
+  7. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
+  8. ShortRead : https://bioconductor.org/packages/release/bioc/html/ShortRead.html              
+  9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html   
+  10.htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html   
+  MultiQC : http://multiqc.info/ 
                           
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
