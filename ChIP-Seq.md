@@ -16,7 +16,8 @@
   8. PRINSEQ : http://prinseq.sourceforge.net/                                           
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html     
   10. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                                        
-  MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)                                        
+  MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)             
+  Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools)                  
                                                   
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
