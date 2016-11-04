@@ -8,7 +8,7 @@
 ## I. Check quality for FASTQ files
   1. FastQC : http://www.bioinformatics.babraham.ac.uk/projects/fastqc/              
   2. FastQ Screen : http://www.bioinformatics.babraham.ac.uk/projects/fastq_screen/                  
-  3. NGSUtils : http://ngsutils.org/          
+  3. SolexaQA : http://solexaqa.sourceforge.net/              
   4. ngs-bits : https://github.com/imgag/ngs-bits                   
   5. fastqp : https://pypi.python.org/pypi/fastqp            
   6. QC3 : https://github.com/slzhao/QC3                      
@@ -17,7 +17,7 @@
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html     
   10. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                                        
   MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)             
-  Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools) , [SolexaQA](http://solexaqa.sourceforge.net/)  , [ShortRead](http://bioconductor.org/packages/release/bioc/html/ShortRead.html)                     
+  Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools)  , [ShortRead](http://bioconductor.org/packages/release/bioc/html/ShortRead.html) , [NGSUtils](http://ngsutils.org/)                      
                                                   
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
@@ -52,5 +52,5 @@
                      
 ## VII. Conversion, Normalization and Reads density calculation
                                   
-## VIII. Peaks annotation   
+## VIII. Peaks annotation      
                                         
