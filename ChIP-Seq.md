@@ -13,7 +13,7 @@
   5. fastqp : https://pypi.python.org/pypi/fastqp            
   6. QC3 : https://github.com/slzhao/QC3                      
   7. Rqc : https://bioconductor.org/packages/release/bioc/html/Rqc.html               
-  8. ShortRead : https://bioconductor.org/packages/release/bioc/html/ShortRead.html              
+  8. PRINSEQ : http://prinseq.sourceforge.net/                                           
   9. seqTools : http://www.bioconductor.org/packages/release/bioc/html/seqTools.html     
   10. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html                                        
   MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)                                        
