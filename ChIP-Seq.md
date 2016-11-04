@@ -1,4 +1,6 @@
-#Top 10 softwares for ChIP-seq data analysis. (The 2nd generation sequencing)
+# Top 10 softwares for ChIP-seq data analysis.                    
+### Only for the 2nd generation sequencing of bulk cell populations.
+### Softwares for Single-cell ChIP-seq data analysis : .  
              
 ## I. Check quality for FASTQ files
   1. FastQC : http://www.bioinformatics.babraham.ac.uk/projects/fastqc/              
