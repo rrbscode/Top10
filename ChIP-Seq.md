@@ -32,9 +32,9 @@
   8. Lighter : https://github.com/mourisl/Lighter        
   9. Karect ； http://aminallam.github.io/karect/          
   10. CoLoRMap ： https://github.com/sfu-compbio/colormap                       
-                                                                      
+                                                                                                      
 -------------------------
-                                              
+                                                                              
 ## III. Reads mapping (Mappers or Aligners)
   1. BWA-mem and BWA-aln:    https://github.com/lh3/bwa        
   2. Bowtie2 :      https://github.com/BenLangmead/bowtie2   
@@ -47,13 +47,17 @@
   8. BBMap : https://sourceforge.net/projects/bbmap/            
   9. GMAP-GSNAP : http://research-pub.gene.com/gmap/                 
   10. deBGA :  https://github.com/hitbc/deBGA                      
-                                                      
+                                          
+-------------------------
+                                              
 ## IV. Check quality for BAM files
 1. Sambamba :  https://github.com/lomereiter/sambamba   
 2. Biobambam2 : https://github.com/gt1/biobambam2  
 3. NGS-QC Generator : http://www.ngs-qc.org/                            
 4. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html
-                     
+                                          
+-------------------------
+                                 
 ## V. Filter and correct the mapped reads
                          
 ## VI. Call peaks and differential peaks
