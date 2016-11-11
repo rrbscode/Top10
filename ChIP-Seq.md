@@ -33,7 +33,8 @@
   9. Karect ； http://aminallam.github.io/karect/          
   10. CoLoRMap ： https://github.com/sfu-compbio/colormap                       
                                                                       
-                  
+-------------------------
+                                              
 ## III. Reads mapping (Mappers or Aligners)
   1. BWA-mem and BWA-aln:    https://github.com/lh3/bwa        
   2. Bowtie2 :      https://github.com/BenLangmead/bowtie2   
