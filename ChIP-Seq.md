@@ -27,7 +27,9 @@
   5. Flexbar : https://github.com/seqan/flexbar 
   6. SeqPrep : https://github.com/jstjohn/SeqPrep               
   7. SeqPurge : https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1069-7                   
-  8. Lighter : https://github.com/mourisl/Lighter     
+  8. Lighter : https://github.com/mourisl/Lighter        
+  9. Karect ； http://aminallam.github.io/karect/          
+  10. CoLoRMap ： https://github.com/sfu-compbio/colormap                       
                                                                       
                   
 ## III. Reads mapping (Mappers or Aligners)
