@@ -18,7 +18,9 @@
   10. ShortRead : http://bioconductor.org/packages/release/bioc/html/ShortRead.html                                              
   MultiQC : https://github.com/ewels/MultiQC   (Aggregate the results from FastQC or FastQ Screen analyses across many samples into a single report.)             
   Other tools : [fastools](https://pypi.python.org/pypi/fastools) , [fqtools](https://github.com/alastair-droop/fqtools)  ,  [NGSUtils](http://ngsutils.org/) , [ngs-bits](https://github.com/imgag/ngs-bits) , [SolexaQA](http://solexaqa.sourceforge.net/)  , [systemPipeR](https://bioconductor.org/packages/release/bioc/html/systemPipeR.html)                                                                     
-                                                  
+                   
+-------------------------
+             
 ## II. Filter and correct the raw reads
   1. Trimmomatic : http://www.usadellab.org/cms/?page=trimmomatic     
   2. cutadapt ： https://pypi.python.org/pypi/cutadapt     
