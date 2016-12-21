@@ -36,22 +36,22 @@
 -------------------------
                                                                               
 ## III. Reads mapping (Mappers or Aligners)
-  1. HISAT2: 
-  2. STAR: 
-  3. RSEM:
-     Kallisto:
-     Alpine:
-  4. Sailfish: 
-     Salmon:
-     RapMap:
-  5. MapSplice:
-  6. CRAC:
-  7. Subjunc:
-  8. BBMap: 
-  9. Novoalign:
-     GSNAP:
-  10. FBB:
-      TACO: 
+  1. HISAT2: https://ccb.jhu.edu/software/hisat2/index.shtml         
+  2. STAR: https://github.com/alexdobin/STAR                    
+  3. RSEM: http://deweylab.github.io/RSEM/                 
+     Kallisto: http://pachterlab.github.io/kallisto/                    
+     Alpine: http://bioconductor.org/packages/release/bioc/html/alpine.html                   
+  4. Sailfish: https://github.com/kingsfordgroup/sailfish                
+     Salmon: https://combine-lab.github.io/salmon/                 
+     RapMap: https://github.com/COMBINE-lab/RapMap                     
+  5. MapSplice: http://www.netlab.uky.edu/p/bioinfo/MapSplice2                       
+  6. CRAC: http://crac.gforge.inria.fr/               
+  7. Subjunc: http://subread.sourceforge.net/               
+  8. BBMap: https://sourceforge.net/projects/bbmap/       
+  9. Novoalign: http://www.novocraft.com/products/novoalign/     
+     GSNAP: http://research-pub.gene.com/gmap/    
+  10. FBB:  https://bitbucket.org/irenerodriguez/fbb     
+      TACO:  https://tacorna.github.io/       
                                           
 -------------------------
                                               
