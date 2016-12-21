@@ -36,17 +36,22 @@
 -------------------------
                                                                               
 ## III. Reads mapping (Mappers or Aligners)
-  1. BWA-mem and BWA-aln:    https://github.com/lh3/bwa        
-  2. Bowtie2 :      https://github.com/BenLangmead/bowtie2   
-  3. Stampy :   www.well.ox.ac.uk/bioinformatics/Software/Stampy-latest.tgz   
-  4. Novoalign : http://www.novocraft.com/support/download/  
-  5. Subread : http://subread.sourceforge.net/     
-  6. Yara : https://www.seqan.de/apps/yara/       
-     RazerS 3 : https://www.seqan.de/apps/razers-3/      
-  7. mrsFAST-Ultra :  http://sfu-compbio.github.io/mrsfast/      
-  8. BBMap : https://sourceforge.net/projects/bbmap/            
-  9. GMAP-GSNAP : http://research-pub.gene.com/gmap/                 
-  10. deBGA :  https://github.com/hitbc/deBGA                      
+  1. HISAT2: 
+  2. STAR: 
+  3. RSEM:
+     Kallisto:
+     Alpine:
+  4. Sailfish: 
+     Salmon:
+     RapMap:
+  5. MapSplice:
+  6. CRAC:
+  7. Subjunc:
+  8. BBMap: 
+  9. Novoalign:
+     GSNAP:
+  10. FBB:
+      TACO: 
                                           
 -------------------------
                                               
