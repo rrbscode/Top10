@@ -51,7 +51,8 @@
   9. Novoalign: http://www.novocraft.com/products/novoalign/     
      GSNAP: http://research-pub.gene.com/gmap/    
   10. FBB:  https://bitbucket.org/irenerodriguez/fbb     
-      TACO:  https://tacorna.github.io/       
+      TACO:  https://tacorna.github.io/             
+      CLC Genomics Workbench: https://www.qiagenbioinformatics.com/products/clc-genomics-workbench        
                                           
 -------------------------
                                               
