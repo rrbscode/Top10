@@ -65,8 +65,12 @@
 12. PRESEQ : https://github.com/smithlabcode/preseq                                           
 13. Picard : https://github.com/broadinstitute/picard                                       
 14. fastqp : https://github.com/mdshw5/fastqp                         
-15. BamQC : https://github.com/s-andrews/BamQC                     
-                                          
+15. BamQC : https://github.com/s-andrews/BamQC               
+16. BamTools : https://github.com/pezmaster31/bamtools                      
+17. VCFtools : https://vcftools.github.io/perl_module.html             
+18. BCFtools : https://samtools.github.io/bcftools/                              
+                                                                                      
+                                                                                                     
 -------------------------
                                  
 ## V. Filter and correct the mapped reads
