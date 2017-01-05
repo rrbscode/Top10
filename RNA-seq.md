@@ -60,7 +60,8 @@
 1. Sambamba :  https://github.com/lomereiter/sambamba   
 2. Biobambam2 : https://github.com/gt1/biobambam2  
 3. NGS-QC Generator : http://www.ngs-qc.org/                            
-4. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html
+4. htSeqTools : http://bioconductor.org/packages/release/bioc/html/htSeqTools.html            
+5. BatchQC : http://bioconductor.org/packages/release/bioc/html/BatchQC.html                 
                                           
 -------------------------
                                  
