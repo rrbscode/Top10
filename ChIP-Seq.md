@@ -46,7 +46,8 @@
   7. mrsFAST-Ultra :  http://sfu-compbio.github.io/mrsfast/      
   8. BBMap : https://sourceforge.net/projects/bbmap/            
   9. GMAP-GSNAP : http://research-pub.gene.com/gmap/                 
-  10. deBGA :  https://github.com/hitbc/deBGA                      
+  10. deBGA :  https://github.com/hitbc/deBGA   
+      Edlib : https://github.com/Martinsos/edlib                  
                                           
 -------------------------
                                               
